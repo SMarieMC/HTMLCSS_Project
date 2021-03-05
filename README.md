@@ -3,4 +3,4 @@
 Completed project. 
 Video demo of project:
  
-https://www.wevideo.com/hub#view/2080578052
+https://www.wevideo.com/view/2080578052
